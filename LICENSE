@@ -1,0 +1,16 @@
+Copyright (c) 2026 KDBL Ltd. All rights reserved.
+
+K-Lake is commercial software. It is licensed, not sold, under the KDBL Terms
+of Use:
+
+    https://kdbl.com/terms.html
+
+Section 17 of those terms ("Cloud marketplace purchases") applies to K-Lake
+obtained through Google Cloud Marketplace and deployed into your own cluster.
+
+The open-source and other third-party components included in K-Lake are
+licensed under their own terms, which are reproduced in the container images
+under /usr/share/kdbl/licenses/ and in the K-Lake administration console.
+
+The documentation in this repository is provided to help you deploy and
+operate K-Lake under that licence.
